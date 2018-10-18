@@ -1,6 +1,6 @@
-print("-----------------------------begin------------------------------------------------------")
+print('{:*^100}'.format('BEGIN'))
 print("success")
 print("if success,i will go home!")
 print("\n成功")
 print("if success,i will go home!")
-print("-----------------------------end------------------------------------------------------")
+print('{:*^100}'.format('END'))
